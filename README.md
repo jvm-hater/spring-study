@@ -26,9 +26,18 @@
 * 템플릿 콜백 패턴
 * 데코레이터 패턴
 
+### 3주차
+* Spring Bean
+* IoC / DI
+
+### 4주차
+* Spring MVC
+* Spring Filter, Interceptor, Argument Resolver
+
 ## Timeline
 | 날짜 | 진영 | 상우 |
 |--|--|--|
 | 22.01.25 | 템플릿 메소드 패턴 | 프록시 패턴 |
 | 22.02.01 | 템플릿 콜백 패턴 | 데코레이터 패턴 |
-| 22.02.08 | Bean - 1 | IoC/DI - 1 |
+| 22.02.08 | Spring Bean | IoC/DI |
+| 22.02.15 | Spring MVC | Spring Filter, Interceptor, Argument Resolver |
