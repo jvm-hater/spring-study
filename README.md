@@ -34,7 +34,7 @@
 * Spring MVC
 * Spring Filter, Interceptor, Argument Resolver
 
-### 5주차
+### 7주차
 * AOP
 * Transactional
 
@@ -45,4 +45,4 @@
 | 22.02.01 | 템플릿 콜백 패턴 | 데코레이터 패턴 |
 | 22.02.08 | Spring Bean | IoC/DI |
 | 22.02.15 | Spring MVC | Spring Filter, Interceptor, Argument Resolver |
-| 22.02.22 | AOP | Transactional |
+| 22.03.08 | AOP | Transactional |
