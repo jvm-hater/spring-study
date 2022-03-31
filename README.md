@@ -38,6 +38,10 @@
 * AOP
 * Transactional
 
+### 11주차
+* @Async
+* 스프링이란, Spring vs Spring boot vs Spring MVC
+
 ## Timeline
 | 날짜 | 진영 | 상우 |
 |--|--|--|
@@ -46,3 +50,4 @@
 | 22.02.08 | Spring Bean | IoC/DI |
 | 22.02.15 | Spring MVC | Spring Filter, Interceptor, Argument Resolver |
 | 22.03.31 | AOP | Transactional |
+| 22.04.07 | @Async | 스프링이란, Spring vs Spring boot vs Spring MVC |
