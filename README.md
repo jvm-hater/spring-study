@@ -42,6 +42,10 @@
 * @Async
 * 스프링이란, Spring vs Spring boot vs Spring MVC
 
+### 12주차
+* 스프링의 CORS 이슈를 해결하는 방법
+* DAO, DTO, VO, Entity, Domain
+
 ## Timeline
 | 날짜 | 진영 | 상우 |
 |--|--|--|
@@ -51,3 +55,4 @@
 | 22.02.15 | Spring MVC | Spring Filter, Interceptor, Argument Resolver |
 | 22.03.31 | AOP | Transactional |
 | 22.04.07 | @Async | 스프링이란, Spring vs Spring boot vs Spring MVC |
+| 22.04.14 | 스프링의 CORS 이슈를 해결하는 방법 | DAO, DTO, VO, Entity, Domain |
